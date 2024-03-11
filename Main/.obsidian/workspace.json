@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "482519beaa560826",
+        "id": "1adc2b3f2b8d869e",
         "type": "tabs",
         "children": [
           {
-            "id": "7bbb467ff2479478",
+            "id": "6ccf82ef0bcfd5b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -178,14 +186,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bbb467ff2479478",
+  "active": "6ccf82ef0bcfd5b6",
   "lastOpenFiles": [
-    "Untitled/Untitled 1.md",
-    "Excalidraw/Drawing 2023-11-29 01.20.48.excalidraw.md",
     "Untitled 1/Untitled 2.md",
     "Untitled 1/Untitled 3.md",
-    "Home.md",
+    "Untitled/Untitled 1.md",
     "Untitled/Untitled.md",
+    "Excalidraw/Drawing 2023-11-29 01.20.48.excalidraw.md",
+    "Home.md",
     "Excalidraw",
     "2023-11-29.md",
     "Untitled.canvas",
