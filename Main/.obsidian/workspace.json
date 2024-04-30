@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled 1/Untitled 2.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled 1/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Untitled 1/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Untitled 1/Untitled 2.md"
               }
             }
           },
@@ -188,11 +188,11 @@
   },
   "active": "6ccf82ef0bcfd5b6",
   "lastOpenFiles": [
-    "Untitled 1/Untitled 2.md",
-    "Untitled 1/Untitled 3.md",
     "Untitled/Untitled 1.md",
-    "Untitled/Untitled.md",
+    "Untitled 1/Untitled 2.md",
     "Excalidraw/Drawing 2023-11-29 01.20.48.excalidraw.md",
+    "Untitled 1/Untitled 3.md",
+    "Untitled/Untitled.md",
     "Home.md",
     "Excalidraw",
     "2023-11-29.md",
