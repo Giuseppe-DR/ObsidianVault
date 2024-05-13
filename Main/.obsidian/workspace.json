@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f98b98e258a80303",
+        "id": "12f5fd8977051bf4",
         "type": "tabs",
         "children": [
           {
-            "id": "7a106971b32cdc0a",
+            "id": "d43a041ffe6916b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,15 +137,14 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "8e26d086b856aa8a",
+        "id": "21c2d7a761fa45a6",
         "type": "tabs",
         "children": [
           {
-            "id": "ef1d16b9e9467a2b",
+            "id": "f656edd11ea48ef6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -155,11 +154,11 @@
         ]
       },
       {
-        "id": "72267cd17afbe0b1",
+        "id": "1550621439d1323a",
         "type": "tabs",
         "children": [
           {
-            "id": "d4cfe59296d1de68",
+            "id": "f1898c5d69769a74",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -174,7 +173,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -183,20 +181,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "573e271f2d451d5d",
+  "active": "d43a041ffe6916b1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-29 01.20.48.excalidraw.md",
-    "Untitled/Untitled.md",
-    "Home.md",
     "Untitled/Untitled 1.md",
+    "Untitled/Untitled.md",
     "Untitled 1/Untitled 2.md",
     "Untitled 1/Untitled 3.md",
+    "Home.md",
+    "2024-05-13.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-11-29 01.20.48.excalidraw.md",
     "Excalidraw",
     "2023-11-29.md",
-    "Untitled.canvas",
     "Untitled 2",
     "Untitled 1",
     "Untitled"
