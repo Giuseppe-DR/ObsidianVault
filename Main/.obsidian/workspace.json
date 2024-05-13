@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12f5fd8977051bf4",
+        "id": "1ba92600af010709",
         "type": "tabs",
         "children": [
           {
-            "id": "d43a041ffe6916b1",
+            "id": "99ff890d54373381",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Untitled 1/Untitled 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Untitled 1/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Untitled 1/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Untitled.md"
+                "file": "Untitled 1/Untitled 2.md"
               }
             }
           },
@@ -152,24 +152,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "1550621439d1323a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f1898c5d69769a74",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 444
+    "width": 316
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,19 +171,27 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d43a041ffe6916b1",
+  "active": "e4e786e64ce664c4",
   "lastOpenFiles": [
     "Untitled/Untitled 1.md",
+    "Untitled 6",
+    "Untitled 5",
+    "Untitled 4",
+    "Untitled 3",
+    "Untitled 2",
+    "Untitled/Untitled 3.md",
+    "Untitled/Untitled 2.md",
+    "Untitled/asdfasdfa.md",
     "Untitled/Untitled.md",
+    "Home.md",
+    "asdfasdfasdfasdf",
     "Untitled 1/Untitled 2.md",
     "Untitled 1/Untitled 3.md",
-    "Home.md",
     "2024-05-13.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-11-29 01.20.48.excalidraw.md",
     "Excalidraw",
     "2023-11-29.md",
-    "Untitled 2",
     "Untitled 1",
     "Untitled"
   ]

@@ -43,7 +43,7 @@ Cancelled
 
   
 
-- [/] Test
+- [ ] Test
 
 In Progress
 

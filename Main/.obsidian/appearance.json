@@ -4,5 +4,7 @@
   "translucency": false,
   "enabledCssSnippets": [
     "extended-colorschemes"
-  ]
+  ],
+  "showViewHeader": true,
+  "theme": "obsidian"
 }
