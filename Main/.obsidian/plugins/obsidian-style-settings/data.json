@@ -53,5 +53,6 @@
   "anuppuccin-theme-settings@@anp-button-metadata-toggle": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte"
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anp-colorful-frame-color@@dark": "#EC99F6"
 }

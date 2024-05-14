@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ba92600af010709",
+        "id": "20b7c65b5a1f8d3d",
         "type": "tabs",
         "children": [
           {
-            "id": "99ff890d54373381",
+            "id": "bfa981c22efe6bb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1/Untitled 2.md",
+                "file": "Untitled/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,6 +78,7 @@
       {
         "id": "c47b583a46ed7913",
         "type": "tabs",
+        "dimension": 72.99270072992701,
         "children": [
           {
             "id": "2105f46da5b8ed77",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1/Untitled 2.md",
+                "file": "Untitled/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1/Untitled 2.md",
+                "file": "Untitled/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1/Untitled 2.md"
+                "file": "Untitled/Untitled 1.md"
               }
             }
           },
@@ -142,6 +143,7 @@
       {
         "id": "21c2d7a761fa45a6",
         "type": "tabs",
+        "dimension": 27.00729927007299,
         "children": [
           {
             "id": "f656edd11ea48ef6",
@@ -168,12 +170,17 @@
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e4e786e64ce664c4",
+  "active": "bfa981c22efe6bb7",
   "lastOpenFiles": [
+    "Untitled 1/Untitled 2.md",
     "Untitled/Untitled 1.md",
+    "Untitled/Untitled.md",
+    "Home.md",
+    "Excalidraw/Drawing 2023-11-29 01.20.48.excalidraw.md",
     "Untitled 6",
     "Untitled 5",
     "Untitled 4",
@@ -182,14 +189,10 @@
     "Untitled/Untitled 3.md",
     "Untitled/Untitled 2.md",
     "Untitled/asdfasdfa.md",
-    "Untitled/Untitled.md",
-    "Home.md",
     "asdfasdfasdfasdf",
-    "Untitled 1/Untitled 2.md",
     "Untitled 1/Untitled 3.md",
     "2024-05-13.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2023-11-29 01.20.48.excalidraw.md",
     "Excalidraw",
     "2023-11-29.md",
     "Untitled 1",

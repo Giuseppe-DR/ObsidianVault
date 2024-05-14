@@ -17,5 +17,6 @@
   "url-into-selection",
   "waypoint",
   "folder-note-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]

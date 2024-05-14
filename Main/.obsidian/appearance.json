@@ -6,5 +6,8 @@
     "extended-colorschemes"
   ],
   "showViewHeader": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
 }
