@@ -67,5 +67,10 @@
   "anuppuccin-theme-settings@@anp-editor-font-lp": "JetBrains Mono",
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "anuppuccin-theme-settings@@anp-kanban-hide-card-menus": false,
-  "anuppuccin-theme-settings@@anp-kanban-hide-card-border": false
+  "anuppuccin-theme-settings@@anp-kanban-hide-card-border": false,
+  "anuppuccin-theme-settings@@anp-kanban-card-opacity": 1,
+  "anuppuccin-theme-settings@@anp-kanban-card-radius": 6,
+  "anuppuccin-theme-settings@@anp-kanban-card-spacing": 8,
+  "anuppuccin-theme-settings@@anp-kanban-lanes": false,
+  "anuppuccin-theme-settings@@cards-min-width": "180px"
 }
