@@ -11,6 +11,7 @@ This theme example is about **==simplicity==** and **==readability==**.
   
 
 # Examples
+----
 
   
 
@@ -28,8 +29,8 @@ This theme example is about **==simplicity==** and **==readability==**.
 
   
 
-| Column 1 | Column 2 | Column 3 |
-| --- | --- | --- |
+| Column 1     | Column 2     | Column 3     |
+| ------------ | ------------ | ------------ |
 | Test Content | Test Content | Test Content |
 | Test Content | Test Content | Test Content |
 | Test Content | Test Content | Test Content |

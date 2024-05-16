@@ -1,3 +1,6 @@
 {
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "foldHeading": true
 }
