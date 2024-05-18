@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8b30d5f8a009fef2",
+        "id": "cb34bde65f730b1d",
         "type": "tabs",
         "children": [
           {
-            "id": "d8c76d00cf71fd57",
+            "id": "287c889ef265292d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 4/Untitled.md",
-                "mode": "preview",
-                "source": true
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 4/Untitled.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 4/Untitled.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 4/Untitled.md"
+                "file": "Home.md"
               }
             }
           },
@@ -174,13 +174,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8c76d00cf71fd57",
+  "active": "e4e786e64ce664c4",
   "lastOpenFiles": [
-    "Untitled 3/Untitled.md",
+    "Untitled.md",
     "Home.md",
+    "Excalidraw/Drawing 2024-05-18 18.58.28.excalidraw.md",
+    "Untitled 3/Untitled Kanban.md",
+    "Untitled 4/Untitled.md",
+    "Untitled 3/Untitled.md",
     "Untitled 1/Untitled 2.md",
     "Untitled 1/Untitled 3.md",
-    "Untitled 4/Untitled.md",
     "Untitled/Untitled 1.md",
     "Untitled/Untitled.md",
     "Untitled 2/Untitled.md",

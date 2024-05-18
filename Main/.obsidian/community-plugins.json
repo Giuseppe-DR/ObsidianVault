@@ -19,5 +19,10 @@
   "folder-note-plugin",
   "obsidian-git",
   "templater-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-annotator",
+  "cm-editor-syntax-highlight-obsidian",
+  "editing-toolbar",
+  "highlightr-plugin",
+  "beautitab"
 ]
