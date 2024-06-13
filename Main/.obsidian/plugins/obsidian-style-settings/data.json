@@ -8,7 +8,6 @@
   "anuppuccin-theme-settings@@anp-status-bar-select": "anp-fixed-status-bar",
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-alternate-tab-toggle",
   "anuppuccin-theme-settings@@anp-disable-newtab-align": true,
-  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
@@ -23,7 +22,7 @@
   "anuppuccin-theme-settings@@anp-collapse-folders": false,
   "anuppuccin-theme-settings@@anp-colorful-frame": false,
   "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
-  "anuppuccin-theme-settings@@anp-autohide-titlebar": true,
+  "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "anuppuccin-theme-settings@@anp-toggle-metadata": true,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": true,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
@@ -72,5 +71,6 @@
   "anuppuccin-theme-settings@@anp-kanban-card-radius": 6,
   "anuppuccin-theme-settings@@anp-kanban-card-spacing": 8,
   "anuppuccin-theme-settings@@anp-kanban-lanes": false,
-  "anuppuccin-theme-settings@@cards-min-width": "180px"
+  "anuppuccin-theme-settings@@cards-min-width": "180px",
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle"
 }

@@ -2,5 +2,7 @@
   "showInlineTitle": true,
   "readableLineLength": false,
   "strictLineBreaks": false,
-  "foldHeading": true
+  "foldHeading": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
