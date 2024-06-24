@@ -11,12 +11,8 @@
             "id": "679b1edf15ffdf10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/Untitled 1.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled/Untitled 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,8 +130,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "21c2d7a761fa45a6",
@@ -178,15 +169,15 @@
   },
   "active": "679b1edf15ffdf10",
   "lastOpenFiles": [
-    "Untitled/Untitled 2.md",
-    "Untitled/Untitled 1.md",
+    "Subjects/Database/Intro to DB.md",
+    "Subjects/IA/Intro to IA.md",
+    "MOC/IA MOC.md",
     "MOC/Database MOC.md",
+    "Untitled/Untitled 1.md",
+    "Untitled/Untitled 2.md",
     "Home.md",
     "Untitled.canvas",
     "Untitled Kanban.md",
-    "MOC/IA MOC.md",
-    "Subjects/Database/Intro to DB.md",
-    "Subjects/IA/Intro to IA.md",
     "Excalidraw/Drawing 2024-06-24 15.32.02.excalidraw.md",
     "Subjects/IA",
     "Subjects/Untitled3.md",

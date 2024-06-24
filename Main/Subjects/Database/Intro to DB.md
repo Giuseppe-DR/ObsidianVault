@@ -1,5 +1,5 @@
 ---
 tags:
-  - database
+  - Database
 links: "[[Database MOC]]"
 ---
