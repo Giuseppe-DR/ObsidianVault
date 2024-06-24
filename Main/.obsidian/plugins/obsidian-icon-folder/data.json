@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "⚔",
-      "FasDiceD20",
-      "FarComment",
-      "FasAlignLeft",
-      "⌛"
+      "FasHouseChimney",
+      "FasServer",
+      "FasBrain",
+      "FasDatabase",
+      "FasBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +31,10 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "Subjects": "FasBook",
+  "Subjects/Database": "FasDatabase",
+  "Subjects/IA": "FasBrain",
+  "MOC": "FasServer",
+  "Home.md": "FasHouseChimney"
 }

@@ -1,5 +1,0 @@
----
-kenban-plugin: basic
----
-
-## backlog

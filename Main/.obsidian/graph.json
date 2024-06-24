@@ -4,19 +4,48 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:MOC  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Subjects/Database  ",
+      "color": {
+        "a": 1,
+        "rgb": 8708178
+      }
+    },
+    {
+      "query": "path:Subjects/IA  ",
+      "color": {
+        "a": 1,
+        "rgb": 6443744
+      }
+    },
+    {
+      "query": "file:Home",
+      "color": {
+        "a": 1,
+        "rgb": 13193952
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 2.9328125,
+  "lineSizeMultiplier": 3.59635416666667,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224438,
+  "centerStrength": 0.401041666666667,
+  "repelStrength": 15.9375,
+  "linkStrength": 0,
+  "linkDistance": 500,
+  "scale": 0.2588386562181635,
   "close": true
 }

@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b9f10da1f18f0f",
+        "id": "f0fa1a00ef953b92",
         "type": "tabs",
         "children": [
           {
-            "id": "3b25f38f2f09dd5c",
+            "id": "679b1edf15ffdf10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Home.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
+          },
+          {
+            "id": "31103806c0d3dd30",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,14 +95,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Untitled.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +143,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "21c2d7a761fa45a6",
@@ -169,24 +175,36 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "graph:Open graph view": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "3b25f38f2f09dd5c",
+  "active": "31103806c0d3dd30",
   "lastOpenFiles": [
+    "Home.md",
+    "Untitled.canvas",
+    "MOC/Database MOC.md",
+    "Untitled Kanban.md",
+    "MOC/IA MOC.md",
+    "Subjects/Database/Intro to DB.md",
+    "Subjects/IA/Intro to IA.md",
+    "Untitled/Untitled 1.md",
+    "Untitled/Untitled 2.md",
+    "Excalidraw/Drawing 2024-06-24 15.32.02.excalidraw.md",
+    "Subjects/IA",
+    "Subjects/Untitled3.md",
+    "Subjects/Database",
+    "Subjects",
+    "MOC",
     "Untitled 3/Untitled.md",
     "Untitled 4/Untitled.md",
-    "Home.md",
-    "Untitled/Untitled 1.md",
+    "Untitled 1/Untitled 3.md",
     "Untitled/Untitled.md",
     "Untitled 2/Untitled.md",
     "Untitled 2/Untitled Kanban.md",
-    "Untitled 1/Untitled 3.md",
-    "Untitled 1/Untitled 2.md",
     "Excalidraw/Drawing 2023-11-29 01.20.48.excalidraw.md",
     "GDR/AGE OF SIGMAR/Personaggi importanti.md",
     "GDR/AGE OF SIGMAR",
@@ -199,14 +217,8 @@
     "Untitled 3",
     "Untitled 2",
     "Untitled/Untitled 3.md",
-    "Untitled/Untitled 2.md",
     "Untitled/asdfasdfa.md",
-    "asdfasdfasdfasdf",
     "2024-05-13.md",
-    "Untitled.canvas",
-    "Excalidraw",
-    "2023-11-29.md",
-    "Untitled 1",
-    "Untitled"
+    "2023-11-29.md"
   ]
 }
