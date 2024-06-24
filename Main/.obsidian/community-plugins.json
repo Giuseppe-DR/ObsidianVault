@@ -15,14 +15,11 @@
   "quick-latex",
   "persistent-graph",
   "url-into-selection",
-  "waypoint",
-  "folder-note-plugin",
   "obsidian-git",
   "templater-obsidian",
   "obsidian-kanban",
   "obsidian-annotator",
   "cm-editor-syntax-highlight-obsidian",
   "editing-toolbar",
-  "highlightr-plugin",
-  "beautitab"
+  "highlightr-plugin"
 ]
