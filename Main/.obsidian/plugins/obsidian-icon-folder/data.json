@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 5,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 15,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasComputer",
       "FasHouseChimney",
       "FasServer",
       "FasBrain",
-      "FasDatabase",
-      "FasBook"
+      "FasDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,6 @@
   "Subjects/Database": "FasDatabase",
   "Subjects/IA": "FasBrain",
   "MOC": "FasServer",
-  "Home.md": "FasHouseChimney"
+  "Home.md": "FasHouseChimney",
+  "Programming": "FasComputer"
 }

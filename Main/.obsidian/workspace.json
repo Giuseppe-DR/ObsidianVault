@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f0fa1a00ef953b92",
+        "id": "f1461b74a01e391a",
         "type": "tabs",
         "children": [
           {
-            "id": "679b1edf15ffdf10",
+            "id": "da7718379b8d9e0b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Version Control/Git.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Version Control/Git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Version Control/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Version Control/Git.md"
+              }
             }
           },
           {
@@ -129,8 +137,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "c2ad2583fd80cdbe",
+            "type": "leaf",
+            "state": {
+              "type": "pieces-snippet-list",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "21c2d7a761fa45a6",
@@ -164,18 +181,24 @@
       "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "679b1edf15ffdf10",
+  "active": "c2ad2583fd80cdbe",
   "lastOpenFiles": [
-    "Subjects/Database/Intro to DB.md",
+    "Programming/Version Control",
     "Subjects/IA/Intro to IA.md",
+    "Subjects/Database/Intro to DB.md",
     "MOC/IA MOC.md",
-    "MOC/Database MOC.md",
-    "Untitled/Untitled 1.md",
-    "Untitled/Untitled 2.md",
     "Home.md",
+    "MOC/Programming MOC.md",
+    "MOC/Database MOC.md",
+    "Programming/Version Control/Git.md",
+    "Untitled/Untitled 2.md",
+    "Untitled/Untitled 1.md",
+    "Programming",
+    "piecesdb.json",
     "Untitled.canvas",
     "Untitled Kanban.md",
     "Excalidraw/Drawing 2024-06-24 15.32.02.excalidraw.md",
@@ -199,11 +222,7 @@
     "GDR",
     "Untitled 5",
     "Untitled 4",
-    "Untitled 3",
-    "Untitled 2",
     "Untitled/Untitled 3.md",
-    "Untitled/asdfasdfa.md",
-    "2024-05-13.md",
-    "2023-11-29.md"
+    "Untitled/asdfasdfa.md"
   ]
 }
