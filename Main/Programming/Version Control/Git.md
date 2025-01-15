@@ -39,3 +39,12 @@ See what commits have been made with:
 git log
 
 ```
+
+Make a remote repo on github;
+Move in the working directoy for the project you want to push.
+
+```bash
+git remote add origin https://github.com/Giuseppe-DR/Story.git
+git branch -M main
+git push -u origin main
+```

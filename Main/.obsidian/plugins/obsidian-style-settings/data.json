@@ -5,7 +5,7 @@
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-dracula",
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-atom-light",
   "anuppuccin-theme-settings@@anp-colorful-frame": false,
-  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": true,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": true,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": true,

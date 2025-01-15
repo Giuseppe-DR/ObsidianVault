@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFileMedical",
       "FasComputer",
       "FasHouseChimney",
       "FasServer",
-      "FasBrain",
-      "FasDatabase"
+      "FasBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,12 +30,14 @@
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "Subjects": "FasBook",
-  "Subjects/Database": "FasDatabase",
   "Subjects/IA": "FasBrain",
   "MOC": "FasServer",
   "Home.md": "FasHouseChimney",
-  "Programming": "FasComputer"
+  "Programming": "FasComputer",
+  "Subjects/IA/Medias": "FasFileMedical"
 }

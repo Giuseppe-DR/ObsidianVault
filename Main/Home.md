@@ -1,6 +1,7 @@
-## Database MOC
+## MOCs
 ``` dataview
 list
 FROM "MOC"
 
 ```
+

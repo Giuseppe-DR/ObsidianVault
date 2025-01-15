@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "3a8b7da21a8d0b15",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "f1461b74a01e391a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "da7718379b8d9e0b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Version Control/Git.md",
-                "mode": "source",
+                "file": "Subjects/IA/Cosa è l’AI.md",
+                "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Cosa è l’AI"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 282
   },
   "right": {
     "id": "87e92d84692081d8",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Version Control/Git.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -103,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Version Control/Git.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -117,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,9 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Version Control/Git.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -135,19 +149,23 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
-            "id": "c2ad2583fd80cdbe",
+            "id": "f3769703f19ff34b",
             "type": "leaf",
             "state": {
-              "type": "pieces-snippet-list",
-              "state": {}
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "21c2d7a761fa45a6",
@@ -159,17 +177,20 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 316
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "callout-manager:Insert Callout": false,
       "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
@@ -180,49 +201,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "pieces-for-developers:Pieces For Developers": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2ad2583fd80cdbe",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Programming/Version Control",
-    "Subjects/IA/Intro to IA.md",
-    "Subjects/Database/Intro to DB.md",
-    "MOC/IA MOC.md",
+    "Subjects/IA/Rational agents.md",
+    "Subjects/IA/Cosa è l’AI.md",
+    "Subjects/IA/Medias/Agents.png",
+    "Subjects/IA/Medias/Turing test.png",
     "Home.md",
+    "MOC/IA MOC.md",
     "MOC/Programming MOC.md",
-    "MOC/Database MOC.md",
-    "Programming/Version Control/Git.md",
     "Untitled/Untitled 2.md",
     "Untitled/Untitled 1.md",
+    "Subjects/IA/Medias",
+    "Programming/Version Control/Git.md",
+    "Subjects/Database/Intro to DB.md",
+    "Subjects/Database/Untitled.md",
+    "Untitled Kanban.md",
+    "Esercizio.md",
+    "WorkNotes/Workflow",
+    "WorkNotes",
+    "Salesforce/Pasted image 20240925102129.png",
+    "Salesforce/Pasted image 20240916124642.png",
+    "Salesforce/Flow.md",
+    "Salesforce/App launcher.md",
+    "Salesforce/Untitled.canvas",
+    "Salesforce/MVC MODEL.md",
+    "Salesforce/Pasted image 20240916124058.png",
+    "Pasted image 20240916124033.png",
+    "Salesforce",
+    "Untitled.canvas",
+    "MOC/Database MOC.md",
+    "Programming/Version Control",
     "Programming",
     "piecesdb.json",
-    "Untitled.canvas",
-    "Untitled Kanban.md",
     "Excalidraw/Drawing 2024-06-24 15.32.02.excalidraw.md",
     "Subjects/IA",
     "Subjects/Untitled3.md",
     "Subjects/Database",
     "Subjects",
-    "MOC",
     "Untitled 3/Untitled.md",
     "Untitled 4/Untitled.md",
     "Untitled 1/Untitled 3.md",
     "Untitled/Untitled.md",
     "Untitled 2/Untitled.md",
     "Untitled 2/Untitled Kanban.md",
-    "Excalidraw/Drawing 2023-11-29 01.20.48.excalidraw.md",
-    "GDR/AGE OF SIGMAR/Personaggi importanti.md",
-    "GDR/AGE OF SIGMAR",
-    "Untitled.md",
-    "Excalidraw/Drawing 2024-05-18 18.58.28.excalidraw.md",
-    "Untitled 3/Untitled Kanban.md",
-    "GDR",
-    "Untitled 5",
-    "Untitled 4",
-    "Untitled/Untitled 3.md",
-    "Untitled/asdfasdfa.md"
+    "Excalidraw/Drawing 2023-11-29 01.20.48.excalidraw.md"
   ]
 }

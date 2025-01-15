@@ -4,5 +4,7 @@
   "strictLineBreaks": false,
   "foldHeading": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "showLineNumber": false
 }
