@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/IA/Cosa è l’AI.md",
-                "mode": "preview",
+                "file": "Subjects/IA/Utility-Based Agent.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cosa è l’AI"
+              "title": "Utility-Based Agent"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282
+    "width": 369
   },
   "right": {
     "id": "87e92d84692081d8",
@@ -128,7 +129,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -202,16 +205,36 @@
       "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e4e786e64ce664c4",
   "lastOpenFiles": [
-    "Subjects/IA/Rational agents.md",
-    "Subjects/IA/Cosa è l’AI.md",
-    "Subjects/IA/Medias/Agents.png",
-    "Subjects/IA/Medias/Turing test.png",
+    "Subjects/IA/Simple Reflex Agent.md",
+    "Subjects/IA/Properties of Task Envirorments.md",
+    "Subjects/IA/Model-Based Reflex Agent.md",
+    "Subjects/IA/Learning.md",
+    "Subjects/IA/Goal-Based Agent.md",
+    "Subjects/IA/General Simple Reflex Agent.md",
+    "Subjects/IA/General Model-Based Reflex Agent.md",
+    "Subjects/IA/A Simple General Agent.md",
+    "Subjects/IA/03-Problem Solving and Search.md",
+    "Subjects/IA/02-Rational agents.md",
+    "Subjects/IA/01-Cosa è l’AI.md",
     "Home.md",
+    "Subjects/IA/Utility-Based Agent.md",
+    "Subjects/IA/Learning Agent.md",
+    "Subjects/IA/Medias/Learning Agent.png",
+    "Subjects/IA/States Vs. Nodes.md",
+    "Subjects/IA/Medias/Utility-Based Agent.png",
+    "Subjects/IA/Medias/Goal-Based Agent.png",
+    "Subjects/IA/Medias/Model-Based Reflex Agent.png",
+    "Subjects/IA/Medias/Simple Reflex Agent.png",
+    "Subjects/IA/Medias/Agents.png",
+    "Subjects/IA/Medias/Romania.png",
+    "Subjects/IA/Medias/States vs nodes.png",
+    "Subjects/IA/Medias/Tree Search Example.png",
+    "Subjects/IA/Medias/Turing test.png",
     "MOC/IA MOC.md",
     "MOC/Programming MOC.md",
     "Untitled/Untitled 2.md",
@@ -224,31 +247,15 @@
     "Esercizio.md",
     "WorkNotes/Workflow",
     "WorkNotes",
-    "Salesforce/Pasted image 20240925102129.png",
-    "Salesforce/Pasted image 20240916124642.png",
     "Salesforce/Flow.md",
-    "Salesforce/App launcher.md",
     "Salesforce/Untitled.canvas",
-    "Salesforce/MVC MODEL.md",
-    "Salesforce/Pasted image 20240916124058.png",
-    "Pasted image 20240916124033.png",
     "Salesforce",
     "Untitled.canvas",
-    "MOC/Database MOC.md",
     "Programming/Version Control",
     "Programming",
     "piecesdb.json",
-    "Excalidraw/Drawing 2024-06-24 15.32.02.excalidraw.md",
     "Subjects/IA",
-    "Subjects/Untitled3.md",
     "Subjects/Database",
-    "Subjects",
-    "Untitled 3/Untitled.md",
-    "Untitled 4/Untitled.md",
-    "Untitled 1/Untitled 3.md",
-    "Untitled/Untitled.md",
-    "Untitled 2/Untitled.md",
-    "Untitled 2/Untitled Kanban.md",
-    "Excalidraw/Drawing 2023-11-29 01.20.48.excalidraw.md"
+    "Subjects"
   ]
 }
