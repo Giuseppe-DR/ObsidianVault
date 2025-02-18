@@ -14,3 +14,5 @@ Utility function
 Improves on goals:
 - selezione tra obiettivi contrastanti (ad esempio, velocità e sicurezza)
 - selezione tra gli obiettivi in base al compromesso tra probabilità di successo e importanza dell'obiettivo.
+
+Lo sviluppo di questo tipo di agenti è piu difficile rispetto agi [[Goal-Based Agent]], in quanto ogni volta che l agente compie un azione “buona” ha una reward +1, mentre se ha un azione “cattiva” ha un malus di -1.

@@ -13,3 +13,5 @@ principale differenza rispetto agli approcci precedenti
 - “Mi renderà felice?”
 è più flessibile in quanto la conoscenza è rappresentata in modo esplicito e può essere manipolata
 - La modifica dell'obiettivo non implica la modifica dell'intero insieme di regole di condizione-azione.
+- 
+Lo sviluppo di questo tipo di agenti è piu facile rispetto agi [[Utility-Based Agent]], qui si programma qual’è l outcome migliore per quel determinato stato.

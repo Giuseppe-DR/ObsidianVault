@@ -1,0 +1,1 @@
+Un nodo è una struttura dati che compone parte di un albero di ricerca, include, parent, children ,depth, path cost g(x)

@@ -87,15 +87,14 @@ end
 
 ## Implementation: states vs. nodes
 
-Uno stato è una rappresentazione di una configurazione fisica.
+![[States]]
 
-Un nodo è una struttura dati che compone parte di un albero di ricerca, include, parent, children ,depth, path cost g(x)
+![[Nodes]]
 
-Gli stati non hanno parent, children ,depth, path cost
 
 ![[States vs nodes.png]]
 
-La funzione EXPAND function create a new node, riempiendo i vari campi e usare successorFn del problema per creare lo stato corrispondente.
+La funzione EXPAND function create a new [[Nodes]], riempiendo i vari campi e usando successorFn del problema per creare lo [[States]] corrispondente.
 
 ## Implementation: general tree search
 
@@ -125,18 +124,14 @@ return successors
 ```
 
 
-## Search Strategies
-Una strategia è definita scegliendo gli ordini di espansione di nodo.
-
-Le strategie sono valutate attraverso le seguenti dimensioni:
-- Completeness: trova sempre una soluzione se esiste?
-- Time complexity: numero di nodi generati/espansi;
-- Space complexity: numero massimo di nodi in memoria
-- optimality: trova sempre la soluzione con minor costo?
-
-Tempo e complessita di spazio sono misurati in:
-- b: fattore di ramificazione massimo dell'albero di ricerca;
-- d: profondità della soluzione a costo minimo;
-- m: profondità massima dello spazio degli stati(may be Infinite);
+![[Search Strategies]]
 
 ## Uniformed search strategies
+Uninformed strategies usano solo le informazioni disponibile nella definizione del problema.
+
+[[Breadth-first search]]
+[[Uniform-cost search]]
+[[Depth-first search]]
+[[Depth-limited search]]
+[[Iterative deepening search]]
+[[Summary of Algorithms]]
